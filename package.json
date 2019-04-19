@@ -1,0 +1,32 @@
+{
+  "name": "gcs-blob-store",
+  "version": "0.1.0",
+  "description": "gcs blob storage",
+  "main": "index.js",
+  "repository": "git@github.com:bervProject/gcs-blob-store.git",
+  "author": "Bervianto Leo Pratama <bervianto.leo@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": ""
+  },
+  "maintainers": [
+    {
+      "name": "Bervianto Leo Pratama",
+      "email": "bervianto.leo@gmail.com",
+      "url": "https://berviantoleo.github.io"
+    }
+  ],
+  "bugs": {
+    "email": "bervianto.leo@gmail.com",
+    "url": "https://github.com/bervProject/gcs-blob-store/issues"
+  },
+  "keywords": [
+    "gcs",
+    "blob-store"
+  ],
+  "homepage": "https://github.com/bervProject/gcs-blob-store",
+  "dependencies": {
+    "@google-cloud/storage": "^2.5.0",
+    "abstract-blob-store": "^3.3.4"
+  }
+}

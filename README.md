@@ -1,2 +1,3 @@
-# gcs-blob-storage
-Blob store storage to store in Google Cloud Storage
+# gcs-blob-store
+
+Blob store to store in Google Cloud Storage
