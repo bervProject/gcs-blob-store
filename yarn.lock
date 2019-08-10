@@ -104,10 +104,10 @@ abort-controller@^3.0.0:
   dependencies:
     event-target-shim "^5.0.0"
 
-abstract-blob-store@^3.3.4:
-  version "3.3.4"
-  resolved "https://registry.yarnpkg.com/abstract-blob-store/-/abstract-blob-store-3.3.4.tgz#9b4d56c15d6f07816025fc6ae643f84b5b1396e0"
-  integrity sha512-TZoKFHJvYg+6sVPwEDjWOy19Pq/F5/RN4j/dm6AL18bS9IbR5mo/2mtRYu9A34D1heCHMX/Lj6d4naD9SIBmOA==
+abstract-blob-store@^3.3.5:
+  version "3.3.5"
+  resolved "https://registry.yarnpkg.com/abstract-blob-store/-/abstract-blob-store-3.3.5.tgz#9d1639512064e2e0618af1026325dd1f41b91bee"
+  integrity sha512-LMxiWKn5/cM4e022wYHCnXNdWBkVRuePx4aL5y2FsOyN48J9wksVodyrJGELnnUbgor5bqeEIW7l6gQAiWYjAg==
   dependencies:
     concat-stream "^1.6.0"
     from2-array "0.0.4"
