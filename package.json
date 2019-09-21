@@ -26,7 +26,7 @@
   ],
   "homepage": "https://github.com/bervProject/gcs-blob-store",
   "dependencies": {
-    "@google-cloud/storage": "^3.2.1",
+    "@google-cloud/storage": "^3.3.0",
     "abstract-blob-store": "^3.3.5"
   }
 }
